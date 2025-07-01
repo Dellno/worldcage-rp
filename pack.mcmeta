@@ -1,7 +1,6 @@
 {
     "pack": {
-        "description": "§7■ WorldCage ■\n§1.a1.1",
-        "pack_format": 15,
-        "supported_formats": {"min_inclusive": 15, "max_inclusive": 99}
+         "pack_format": 99,
+         "description": "§7■ WorldCage ■\n§1.a1.1",
     }
 }
