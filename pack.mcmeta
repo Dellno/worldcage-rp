@@ -1,7 +1,6 @@
 {
-    "pack": {
-        "description": "WorldCage",
-        "pack_format": 63,
-        "supported_formats": 63
-    }
+  "pack": {
+    "description": "worldcagerp",
+    "pack_format": 71
+  }
 }
